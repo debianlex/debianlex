@@ -1,1 +1,15 @@
-![GIF animado](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWl0ajdlZjdmMGkwMGhoN252em5pZHNicDN6cGo1a2RpbTg0cmRzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif)
+<div style="font-size: 24px; font-family: Arial, sans-serif;">
+  <style>
+    @keyframes fadeInOut {
+      0% { opacity: 0; }
+      50% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+
+    .fade {
+      animation: fadeInOut 2s infinite;
+    }
+  </style>
+
+  <span class="fade">Existence</span>
+</div>
