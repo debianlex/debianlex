@@ -1,7 +1,1 @@
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imwolfyou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-###
-###
+![GIF animado](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWl0ajdlZjdmMGkwMGhoN252em5pZHNicDN6cGo1a2RpbTg0cmRzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif)
