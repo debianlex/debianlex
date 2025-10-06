@@ -1,6 +1,5 @@
 ```bash
 debian@lex:~$ neofetch
-debian@lex 
 ----------------
 OS: Debian GNU/Linux 12 (bookworm) x86_64
 Host: lex-desktop
